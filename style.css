@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(132, 153, 175);
+}
+
+.img2 {
+    align-content: center;
+    width: 100vh;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    text-shadow: rgb(31, 28, 28);
+    margin-top: 0%;
+}
+
+.hed {
+    align-items: center;
+    align-content: center;
+    width: 100vh;
+    margin: 10px;
+    padding: 10px;
+    color: rgb(241, 243, 245);
+    background-color: rgb(5, 5, 49);
+}
+
+h3 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.letsparty {
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+.row {
+    border: 8px darkgreen;
+}
+
+.btn-primary {
+    background-color: darkorange;
+}
+
+.btn-primary:hover {
+    background-color: green;
+}
